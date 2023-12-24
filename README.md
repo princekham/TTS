@@ -19,3 +19,7 @@ Anki Fields
 13. Note Sound
 14. Note Myanmar
 15. Note Myanmar Sound
+
+
+### How to import to Anki
+https://www.youtube.com/watch?v=BwGNP3GXmxg&ab_channel=languagegirl
