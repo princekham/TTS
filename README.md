@@ -8,6 +8,7 @@
 
 [sound:mp3-output-ttsfree(dot)com (13).mp3]   -    ဒီစကားလုံးက နောက်ဆုံးမှာ အသံတက်ပါတယ်။
 
+[sound:mp3-output-ttsfree(dot)com (2).mp3]     -    ဒီစကားလုံးက ရှေ့ဆုံးမှာ အသံတက်ပါတယ်။ 
 
 
 ```
