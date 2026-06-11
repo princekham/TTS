@@ -1,3 +1,11 @@
+### Google AI setting
+
+<img width="953" height="1490" alt="image" src="https://github.com/user-attachments/assets/29e80209-aa01-4e20-a387-3cb2b2ae33b6" />
+
+
+
+
+
 ### TTS
 ```
 <pitch level="+10%">
