@@ -13,6 +13,11 @@ npm run start
 ```
 
 ### To start Voxcmp
+- set thee variable
+- 
+  ```
+  set VOXCPM_USE_MODELSCOPE=1
+  ```
 - get to the environment first
   
   ```
