@@ -11,7 +11,13 @@ npm run dev
 npm run build
 npm run start
 ```
+
 ### To start Voxcmp
+- get to the environment first
+- 
+  ```
+  voxcpm-venv\Scripts\activate
+```
 ```
 cd C:\Voxcpm\VoxCPM-main
 python app.py --port 7860 --device auto
